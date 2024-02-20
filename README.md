@@ -25,17 +25,22 @@
 
   # :hammer: Features and Application Demo
 - `Feature 1`: Sending Emergency Messages
-
-<img src="https://github.com/PaivaEduarda/Athena/assets/114159027/2e1f88d6-58c9-4dd4-b05b-79a64cb16e8a" alt="sending-message-via-api" width="200">
+  
+<p align="center">
+  <img src="https://github.com/PaivaEduarda/Athena/assets/114159027/2e1f88d6-58c9-4dd4-b05b-79a64cb16e8a" alt="sending-message-via-api" width="200">
+</p>
 
 - `Feature 2`: Real-Time Location Monitoring
-<img src="https://github.com/PaivaEduarda/Athena/assets/114159027/889c2605-e0b4-4d7b-857e-8542f8420f9c" alt="real-Time-ocation-monitoring" width="500">
 
-
+<p align="center">
+  <img src="https://github.com/PaivaEduarda/Athena/assets/114159027/db9d133d-cea5-45ab-8dd4-db6bb05cab2d" alt="real-Time-ocation-monitoring" width="500">
+</p>
   
-- `Feature 3`: Real-Time Location Monitoring
+- `Feature 3`: Support and Reporting Community
 
-<img src="https://github.com/PaivaEduarda/Athena/assets/114159027/72974a26-e1bc-46ca-83a4-93ac99eecb1b" alt="support-and-reporting-community" width="500">
+<p align="center">
+  <img src="https://github.com/PaivaEduarda/Athena/assets/114159027/61852c30-8ee6-4423-aa34-50fa76a8cb23" alt="support-and-reporting-community" width="500">
+</p>
 
 # Technologies used
 - `React JS`
