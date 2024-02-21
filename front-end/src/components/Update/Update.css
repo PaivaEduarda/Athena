@@ -1,0 +1,102 @@
+.update-form::before{
+    position: absolute;
+    content: "";
+    height: 1000px;
+    width: 1000px;
+    top: -7%;
+    transform: translateY(-50%);
+    transform: translateX(-50%);
+    background-color:#1155CC;
+    transition: 1.8s ease-in-out;
+    border-radius: 50%;
+    z-index: 0;
+    bottom: 50%;
+ }
+ .h2update{
+   margin-left: 10px;
+   font-size: 20px;
+   margin-bottom: 10px;
+ }
+ .informacoesDoUsuario{
+   position: absolute;
+   display: block;
+   margin-left: 100vh;
+   flex-wrap: wrap;
+   margin-top: 20px;
+ }
+ .labels{
+   display: flex;
+   flex-wrap: wrap;
+   margin-left: 10px;
+ }
+ .label2
+ {
+   margin-left: 200px;
+ }
+ .labData{
+   margin-left: 130px;
+ }
+ .inputs{
+   display: flex;
+   margin-right: 100px;
+ }
+ .input2{
+   margin-left: 40px;
+ }
+ .nomeInput, .telefoneInput, .nomeSegInput, .alturaInput, .tipoSangInput, .enderecoInput
+ {
+   width: 200px;
+ }
+ 
+ .oLinha{
+   display: flex;
+ }
+ .inputsDoenca{
+   position: absolute;
+   margin-top: 20px;
+   margin-right: 50px;
+ }
+ .doencaInput
+ {
+   width: 440px;
+ }
+ .imgWoman{
+   position: absolute;
+   height: 600px;
+   width: 600px;
+   margin-top: 180px;
+ }
+ .cadastroH1{
+   position: absolute;
+   color: aliceblue;
+   margin-top: 150px;
+   margin-left: 80px;
+   font-size: 30px;
+ }
+ .updateP,.updateS{
+   position: absolute;
+ }
+ .updateS{
+   color: rgb(255, 255, 255);
+   padding-top: 200px;
+ }
+ .updateP{
+   color: rgb(255, 255, 255);
+   padding-top: 230px;
+   margin-left: 40px;
+ }
+ .psDoupdate{
+   text-align: center;
+   padding-left: 90px;
+ }
+ .btnLogon{
+   background-color: #072C6B;
+   width: 100px;
+   height: 40px;
+   border-radius: 15px;
+ }
+ .divLogon{
+   margin-top: 60px;
+   margin-left: 200px;
+   color: aliceblue;
+ }

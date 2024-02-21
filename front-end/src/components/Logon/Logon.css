@@ -1,0 +1,94 @@
+.logon-form::before{
+    position: absolute;
+    content: "";
+    height: 1000px;
+    width: 1000px;
+    top: -7%;
+    transform: translateY(-50%);
+    transform: translateX(-50%);
+    background-color:#1155CC;
+    transition: 1.8s ease-in-out;
+    border-radius: 50%;
+    z-index: 0;
+    bottom: 50%;
+    position: fixed;
+ }
+ .internal{
+    border-radius: 20%;
+    background-color: black;
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0.6;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: block;
+ }
+ .title{
+    margin-top: 40px;
+    font-size: 30px;
+ }
+ .username{
+    background-color: #D9D9D9;
+    width: 350px;
+    height: 40px;
+    border-radius: 15px;
+ }
+ .user{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ .password{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ .senha{
+    background-color: #D9D9D9;
+    width: 350px;
+    height: 40px;
+    border-radius: 15px;
+ }
+ .btnLogin{
+    background-color: #072C6B;
+    width: 100px;
+    height: 40px;
+    border-radius: 15px;
+ }
+ .divLogin{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-color: #072C6B;
+ }
+ .logonLabel{
+   font-size: 15px;
+   color: #1155cc;
+ }
+ .labelCadastro{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+ .imgWomanLogin{
+    position: absolute;
+    height: 400px;
+    width: 200px;
+    bottom: 100px;
+    left: 63%;
+ }
+ .msgErro {
+   margin-top: 28%;
+   left: 80%;
+   font-weight: normal;
+   font-size: 15px;
+ }

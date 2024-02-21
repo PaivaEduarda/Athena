@@ -1,0 +1,57 @@
+.page {
+    display: block;
+    z-index: -1;
+}
+
+.page.hidden {
+    filter: blur(10px);
+}
+
+.relatos{
+    display: block;
+}
+
+.relato-header {
+    display: flex;
+    margin: 20px;
+}
+
+.relato-header .create-relato {
+    margin-left: auto;
+    border: none;
+    border-radius: 50%;
+    padding: 10px;
+    background: #dae0f0;
+    text-decoration: none;
+}
+
+.post-relato{
+    font-weight: 100;
+    width: 1000px;
+    border-radius: 20px;
+    padding: 10px 30px;
+    background: #d3d0d0;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.post-relato.hidden {
+    display: none;
+}
+
+.cancel {
+    display: flex;
+    margin: 5px 0;
+}
+
+.btnCancel {
+    margin-left: auto;
+    border: none;
+    background: #d3d0d0;
+    text-decoration: none;
+}

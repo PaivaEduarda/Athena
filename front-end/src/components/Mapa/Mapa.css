@@ -1,0 +1,20 @@
+@import '@mapbox/mapbox-gl-geocoder/dist/mapbox-gl-geocoder.css';
+
+.map-wrap {
+  position: fixed;
+  margin: auto;
+  height: 70vh;
+  width: 80%; /* calculate height of the screen minus the heading */
+}
+
+.mapa {
+  position: absolute;
+  width: 55%;
+  height: 80%;
+}
+
+.mapaRelato {
+  position: absolute;
+  width: 76vw;
+  height: 87vh;
+}

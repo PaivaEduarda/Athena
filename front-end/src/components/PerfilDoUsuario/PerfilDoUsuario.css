@@ -1,0 +1,146 @@
+/*default information*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
+
+h1, p, h2{
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+p{
+  color: #8C8585;
+}
+
+h2{
+  font-size: 15px;
+  color: #072C6B;
+}
+
+.profileInformation {
+  height: 100%;
+  margin: 30px;
+}
+
+/*Cabeçalho*/
+.imgProfile
+{
+    width: 80px;
+    height: 80px;
+}
+.profileSelf
+{
+   padding-left: 200px;
+}
+
+.nameInformation{
+  margin-left: 20px;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+}
+.icon-pencil{
+  padding-top: 10px;
+  padding-left: 5px;
+}
+.cabecalho{
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+/*Information*/
+
+.aboutTitle{
+  display: flex;
+  align-items: center;
+  padding-left: 200px;
+  position: absolute;
+}
+
+.email{
+  padding-left: 200px;
+  padding-top: 50px;
+}
+.tel{
+  padding-top: 50px;
+}
+.adress{
+  padding-top: 130px;
+}
+.adressInformation{
+  padding-top: 170px;
+}
+.emailInformation{
+  padding-left: 150px;
+}
+.about{
+  position: absolute;
+  display: flex;
+  padding-left: 200px;
+  padding-top: 90px;
+}
+.tContato{
+  padding-top: 210px;
+  color: #072C6B;
+}
+.telSegDiv{
+  padding-left: 200px;
+}
+.infoSeguranca
+{
+  padding-top: 260px;
+}
+.ntSeg{
+  padding-top: 300px;
+}
+.telInfo{
+  padding-left: 220px;
+}
+
+.tSaude{
+  padding-top: 340px;
+  color: #072C6B;
+}
+
+.infoTSaude
+{
+  padding-top: 390px;
+}
+.infoSaude
+{
+  padding-top: 420px;
+}
+.pesoInfo{
+  padding-left: 200px;
+}
+.infoT2Saude{
+  padding-top: 460px;
+}
+.dtDiv{
+  padding-left: 130px;
+}
+.info2Saude{
+  padding-top: 500px;
+} 
+.tipoSanguineoInfo{
+  padding-left: 50px;
+}
+.dataNascimentoInfo{
+  padding-left: 170px;
+}
+.tDoencas{
+  padding-top: 540px;
+}
+.pDivDoencas{
+  padding-left: 200px;
+  width: 700px;
+  padding-top: 590px;
+}
+.doencasP{
+  background-color: #D9D9D9 ;
+  border-radius: 10px;
+  text-align:justify;
+  justify-content: center;
+  align-items: center;
+  border: 10px solid #D9D9D9;
+}
