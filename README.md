@@ -47,7 +47,7 @@
 - `MySQL`
 - `ASP.NET`
 
-# Autores
+# Authors
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/114159027?v=4" width=115><br><sub>Eduarda Paiva</sub>](https://github.com/PaivaEduarda) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/113611897?v=4" width=115><br><sub>Beatriz Coutinho</sub>](https://github.com/biaacoutinho) | 
 | :---: | :---: |
